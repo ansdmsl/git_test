@@ -5,3 +5,4 @@
 + .(점) 눌러서 웹 VS code 실행
 + 파일 수정 및 새로 만들기 하고 
 + 소스컨트롤에서 commit 저장하기 (add+ commit 동시에)
++ index.html 추가
